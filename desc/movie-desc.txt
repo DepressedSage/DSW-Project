@@ -1,0 +1,38 @@
+Eternals
+	Genre: Action Adventure Fantasy
+	Director: Chloé Zhao
+	Description: Following the events of Avengers: Endgame (2019), an unexpected tragedy forces the Eternals, ancient aliens who have been living on Earth in secret for thousands of years, out of the shadows to reunite against mankind's most ancient enemy, the Deviants.
+	imdb: 6.8
+Spiderman: No Way Home
+	Genre: Action Adventure Sci-Fi
+	Director: Jon Watts
+	Description: With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.
+	imdb: Not Released
+Shershaah
+	Genre: Action Biography Drama
+	Director: Vishnuvardhan
+	Description: Based on the life of Captain Vikram Batra who was an officer of the Indian Army, posthumously awarded with the Param Vir Chakra, India's highest and most prestigious award for valour, for his actions during the 1999 Kargil War in Kashmir between India and Pakistan.
+	imdb: 8.7
+
+Bob Biswas
+	Genre: Crime Drama Thriller
+	Director: Diya Annapurna Ghosh
+	Description: Blue a drug in demand which youngsters are addicted currently as its helps them to overcome stress.Bob Biswas an insurance agent is released from the hospital after spanning eight years in coma and is welcomed by his wife Mary and son Benny he has lost his memory and does not remember the past and finds that also has a teenage step daughter Minnie from Mary's late husband David,Minnie is appearing for medical entrance exams and gets used to blue .Bob is approached by two cops Jishu Narag and Kharaj Sahu who asks him to get back to his previous job as a contract killer where he is assigned to kill people dealing with blue.Bob slowly starts to recollect his memory of being a contract killer but is unaware that the big fishes of drug mafia had Pre planned the events for him.
+	imdb: 7.1
+
+La La Land
+	Genre: Comedy Drama Music
+	Director: Damien Chazelle
+	Description: Aspiring actress serves lattes to movie stars in between auditions and jazz musician Sebastian scrapes by playing cocktail-party gigs in dingy bars. But as success mounts, they are faced with decisions that fray the fragile fabric of their love affair, and the dreams they worked so hard to maintain in each other threaten to rip them apart. 
+	imdb: 8
+
+Dilwale Dulhaniya Le Jayenge
+    Genre: Drama Romance
+	Director: Aditya Chopra
+	Description: When Raj (Shah Rukh Khan) and Simran (Kajol) first met on an inter-rail holiday in Europe, it wasn't exactly Love at first sight but when Simran is taken back to India for an arranged marriage, things change. Encouraged by his father Dharamvir (Anupam Kher), Raj decides to fly down from London to not just win his Bride but her whole family and the blessings of her father Baldev Singh (Amrish Puri). 
+	imdb: 8.1
+Dune
+	Genre: Action Adventure Drama
+	Director: Denis Villeneuve
+	Description: A mythic and emotionally charged hero's journey, "Dune" tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.
+	imdb: 8.2/10
